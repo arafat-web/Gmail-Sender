@@ -1,0 +1,22 @@
+Universal Gmail Sender
+by Arafat Hossian Ar
+Version: 1.0
+Enjoy :)
+
+To run this
+Click on Gmail Sender.bat in dist folder
+
+or
+Open project folder
+go to dist folder
+Open CMD and paste this
+java -jar gmailSender.jar
+Now press enter and Enjoy :)
+
+To Avoid Authencation problem:
+Before sending messagae without any issue you have to give permission to your google account
+Click on this link and click on turn on radio button to allow users to send mail from unknown location.
+https://www.google.com/settings/security/lesssecureapps
+
+YOUR INFORMATION IS TOTLAY SAFE AND SOUND
+MAIL IS SENDING BY SSL SOCKET. SO THERE IS NO ANY SECUIRITY ISSUE.
