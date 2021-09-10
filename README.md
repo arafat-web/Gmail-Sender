@@ -12,11 +12,11 @@
 
 <h3>To Avoid Authencation problem: </h3>
 <ul>
-<li> Before sending messagae without any issue you have to give permission to your google account</li>
-<li>  Click on this link and click on turn on radio button to allow users to send mail from unknown location. </li>
+<li> Before sending messagae you have to give permission to your google account</li>
+<li> Click on this link and click on turn on radio button to allow users to send mail from unknown location. </li>
 <li> <a href= "https://www.google.com/settings/security/lesssecureapps">https://www.google.com/settings/security/lesssecureapps</a></li>
 </ul>
 
 <h2>             YOUR INFORMATION IS TOTLAY SAFE AND SOUND<br>
-    MAIL IS SENDING BY SSL SOCKET. SO THERE IS NO ANY SECUIRITY ISSUE.</h2>
+    MAIL WILL SEND BY SSL SOCKET. SO THERE IS NO ANY SECUIRITY ISSUE.</h2>
 
